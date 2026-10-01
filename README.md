@@ -1,0 +1,2 @@
+# Real-Time-Imaging-for-COVID-19-Breast-Cancer-Detection-Using-Deep-Learning
+Developed a deep learning-based medical image analysis system to classify COVID-19 chest CT images and breast ultrasound images for breast cancer detection. Used EfficientNetB0 transfer learning and a lightweight CNN model, with a Flask web application for deployment, SQLite for data logging, and Canny and Sobel edge detection for image processing.
